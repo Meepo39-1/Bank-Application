@@ -1,0 +1,8 @@
+PROIECT PAO:
+de chemat functia transfer din cadrul unui obiect de tip user (usor)
+implementat creare card debit(usor)
+implementat accesare card debit(usor)
+implementat tranzactii  ( + istoricul lor) (muncitoresc)
+creare card credit + functionalitate imprumut (muncitoresc)
+termina implementarea subclaselor (mediu)
+termina un meniu interattiv (mediu)
